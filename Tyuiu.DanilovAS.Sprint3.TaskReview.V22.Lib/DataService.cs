@@ -24,6 +24,7 @@ namespace Tyuiu.DanilovAS.Sprint3.TaskReview.V22.Lib
                 valueArray[count] = Math.Round(y,2);
                 count++;
             }
+
             return valueArray;
         }
     }

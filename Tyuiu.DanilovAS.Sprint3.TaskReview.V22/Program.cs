@@ -56,7 +56,6 @@ namespace Tyuiu.DanilovAS.Sprint3.TaskReview.V22
                 Console.WriteLine("|{0,5:d}    |  {1, 5:f2}  |", startValue, valueArray[i]);
                 startValue++;
             }
-
             Console.WriteLine("+---------+---------+");
             Console.ReadKey();
         }

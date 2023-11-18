@@ -21,7 +21,6 @@ namespace Tyuiu.DanilovAS.Sprint3.TaskReview.V22.Test
 
             double[] valueWaitArray;
             valueWaitArray = new double[len];
-
             valueWaitArray[0] = 8.04;
             valueWaitArray[1] = 6.68;
             valueWaitArray[2] = 4.84;
